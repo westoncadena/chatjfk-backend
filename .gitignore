@@ -1,0 +1,2 @@
+embeddings/*.faiss
+embeddings/*.json

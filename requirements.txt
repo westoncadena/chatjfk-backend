@@ -5,3 +5,4 @@ uvicorn
 markdown-it-py
 streamlit
 torch
+openai
